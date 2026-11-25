@@ -1,3 +1,5 @@
+![Human voice: Write in someone's own words: three questions, their answers word for word, nothing invented.](.github/banner.png)
+
 # Human voice skill
 
 A Claude skill for writing in someone's own voice: captions, site copy, bios, emails and essays. Instead of
